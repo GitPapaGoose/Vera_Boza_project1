@@ -1,6 +1,5 @@
 streamlit 
 torch
-torch.nn 
 torchvision 
 PIL 
 requests
@@ -8,6 +7,5 @@ io
 time
 os
 json
-torch.utils.data 
 pandas 
 numpy 
