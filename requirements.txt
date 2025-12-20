@@ -1,11 +1,7 @@
-streamlit 
-torch
-torchvision 
-PIL 
+streamlit>=1.52.2
+torch>=2.9.1
+torchvision>=0.24.1
+pillow
 requests
-io 
-time
-os
-json
-pandas 
-numpy 
+pandas
+numpy
